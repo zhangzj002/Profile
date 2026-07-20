@@ -1,11 +1,11 @@
-# Hi there, I'm [zj zhang] 👋
+# 你好，我是 [zj zhang] 👋
 
-🎓 **Xi'an Jiaotong University (C9)** | 🤖 **Robotics & Embodied AI**
-🔬 **Researcher @ [LAN Xuguang's Lab](https://gr.xjtu.edu.cn/en/web/lanxug)`[1]`** | 🧠 **Focus: Sim-to-Real & Physical Interaction**
-📍 **Xi'an, China** | 🌏 **Aspiring PhD Candidate / Robotics Engineer**
+🎓 **西安交通大学 (C9)** 在读  
+🤖 **机器人与具身人工智能** 研究者 @ LAN 旭光实验室  
+❤️ **重点**：模拟现实与实体互动 📍 中国西安  
+🎓 **目标**：有志博士生 / 机器人工程师
 
-> **Building robust robotic systems for the unstructured world.**
-> Bridging the gap between high-fidelity simulation and real-world deployment.
+> 为无结构世界构建坚固的机器人系统。弥合高保真仿真与实际部署之间的鸿沟。
 
 ---
 
